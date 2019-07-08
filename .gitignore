@@ -1,9 +1,14 @@
 # Created by https://www.gitignore.io/api/java
 
 .idea
+### Added by EL ###
+*.iml
+*.ipr
+*.iws
 
 ### Java ###
 # Compiled class file
+out/
 *.class
 
 # Log file
